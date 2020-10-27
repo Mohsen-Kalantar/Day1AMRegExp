@@ -1,0 +1,12 @@
+Lausanne 12.45
+Nyon 4.67
+erreur
+Geneve 10.6
+Gland 4.56
+Lausanne
+Geneve 3.4
+
+Autre 15.67
+Nyon 1.8
+Autre 15.67
+Nyon 1.8
